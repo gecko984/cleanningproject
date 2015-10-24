@@ -1,4 +1,3 @@
-# cleanningproject
 ---
 title: "Tidying the UCI_HAR dataset"
 author: "jsnieto"
