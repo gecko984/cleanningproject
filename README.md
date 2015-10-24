@@ -1,9 +1,4 @@
----
-title: "Tidying the UCI_HAR dataset"
-author: "jsnieto"
-date: "October 21, 2015"
-output: html_document
----
+# Tidying the UCI_HAR dataset"
 
 The goal of this project is to prepare tidy data from the Human Activity Recognition Using Smartphones Dataset. Information about the dataset can be found [here](
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The dataset can be downloaded from the following [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). In order for the script to work the data should be unzipped maintaining its native structure into the R working directory.
